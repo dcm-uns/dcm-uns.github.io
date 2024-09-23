@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmicroa=self.webpackChunkmicroa||[]).push([[15],{15:(e,r,c)=>{c.r(r),c.d(r,{default:()=>a});var n=c(950),t=c.n(n);const a=function(){return t().createElement("div",null,"Este es un microfrontend")}}}]);
