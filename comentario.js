@@ -1,3 +1,3 @@
 {
-    "texto" : "Este es un comentario resaltado en el frontpage"
+    "texto" : "Yellowstone es una de las series mas vistas"
 }
