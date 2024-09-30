@@ -1,3 +1,3 @@
 {
-    "data" : "Este es un comentario resaltado en el frontpage"
+    "texto" : "Este es un comentario resaltado en el frontpage"
 }
